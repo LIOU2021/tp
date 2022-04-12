@@ -1,5 +1,6 @@
 ThinkPHP 6.0
 ===============
+[my note](https://codebeginner666.blogspot.com/2022/04/thinkphp.html?zx=600bfc09f2d7dd69)
 
 > 运行环境要求PHP7.2+，兼容PHP8.1
 
