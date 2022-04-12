@@ -15,3 +15,7 @@ Route::get('think', function () {
 });
 
 Route::get('hello/:name', 'index/hello');
+Route::get('test', 'test/index');
+Route::get('test2', 'index/test');
+Route::get('test3', 'test/getView');
+Route::get('test4', 'test/getView2');
